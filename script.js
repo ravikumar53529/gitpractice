@@ -8,3 +8,4 @@ let res=num1+nmum2;
 x.innerHTML=res;
 
 console.log(x)
+console.log(x)
