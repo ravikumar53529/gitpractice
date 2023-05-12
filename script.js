@@ -7,3 +7,4 @@ let num2=34;
 let res=num1+nmum2;
 x.innerHTML=res;
 
+console.log(x)
